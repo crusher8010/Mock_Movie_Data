@@ -342,5 +342,49 @@
             "trailer": "https://www.youtube.com/watch?v=WXzbm91D4lw",
             "description": "While on a trip to Dwarka with his family, Dr. Karthikeya gets embroiled in a dangerous search for an ancient anklet belonging to Lord Krishna that has evaded adventurous men across centuries."
         }
+    ],
+    "Carousel":[
+        {
+            "id": 1,
+            "title":"India Lockdown",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250012/cover/1920x770541441bea82b4c5ebb5e50fdf65b1486.jpg",
+            "trailer": "https://www.youtube.com/watch?v=9ljbq9lM5GQ",
+            "description": "Inspired by true events, 'India Lockdown' depicts four parallel stories and the repercussions of the Covid-19 pandemic on the people of India."
+        },
+        {
+            "id": 2,
+            "title":"Blurr",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5259649/cover/1920x770c85c702415cb46fdbc2b704334a1222d.jpg",
+            "trailer": "https://www.youtube.com/watch?v=KNjBhoxNpvw",
+            "description": "In this ZEE5 Original, Gayatri, a woman with a degenerative eye disorder, is slowly losing her eyesight. She, however, has to solve the mystery of her twin sister Gautami's death."
+        },
+        {
+            "id": 3,
+            "title":"Har Har Mahadev",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5264517/cover/1920x770618f9da3dbd54edcac6cd320187bf1f2e6966885630a401fb3ed9fc393b63bbd.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Fa5V6jArlTE",
+            "description": "The film is about the inspirational story of a real battle in which only 300 soldiers, led by Baji Prabhu Deshpande, the commander of Chhatrapati Shivaji Maharaj."
+        },
+        {
+            "id": 4,
+            "title":"Kundali Bhagya",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x77034e3eda8bcc4448f9d5d0bd3cb3b370d.jpg",
+            "trailer": "https://www.youtube.com/watch?v=glDoG28vjc4",
+            "description": "Kundli Bhagya serial is the love story of Karan and Preeta. Kundali Bhagya serial essays the story of a middle-class girl Preeta who tries to save the Luthra family from Sherlyn's evil intentions."
+        },
+        {
+            "id": 5,
+            "title":"Bhagya Lakshmi",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x770a15c26ed517c493798aa0019ed684045.jpg",
+            "trailer": "https://www.youtube.com/watch?v=HP3CU_d7tW0",
+            "description": "Lakshmi a kind hearted girl, hailing from a middle-class family, strongly believes in helping others, but her life takes an unexpected turn when her fate is tied to Rishi Oberoi, an industrialists son."
+        },
+        {
+            "id": 6,
+            "title":"Mukhbir: The Story of a Spy",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-4z5199975/cover/1920x77079afb06df35c44f085cd8482df287a17.jpg",
+            "trailer": "https://www.youtube.com/watch?v=9wZ-qHE1w3o",
+            "description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?"
+        }
     ]
 }
