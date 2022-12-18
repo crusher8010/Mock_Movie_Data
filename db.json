@@ -386,5 +386,301 @@
             "trailer": "https://www.youtube.com/watch?v=9wZ-qHE1w3o",
             "description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?"
         }
+    ],
+    "SearchData": [
+        {
+            "id": 1,
+            "title": "Doctor G",
+            "poster": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/10/doctor-g-movie-review-1.jpg",
+            "trailer": "https://www.youtube.com/watch?v=hY_e3BhFYBw",
+            "description": "Doctor G is a 2022 Indian Hindi-language medical campus comedy-drama film directed by Anubhuti Kashyap and produced by Junglee Pictures. It stars Ayushmann Khurrana, Rakul Preet Singh and Shefali Shah. The film follows the struggles of a male doctor who is interested in orthopaedics but instead becomes a gynaecologist, thus leading to chaos."
+        },
+        {
+            "id": 2,
+            "title": "Brahmāstra: Part One",
+            "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/5040/1405040-h-745f9aa52bbc",
+            "trailer": "https://www.youtube.com/watch?v=V5jVntRVl-0",
+            "description": "The story of Shiva - a young man on the brink of an epic love, with a girl named Isha. But their world is turned upside down when Shiva learns that he has a mysterious connection to the Brahmastra... and a great power within him that he doesn't understand just yet - the power of Fire."
+        },
+        {
+            "id": 3,
+            "title": "Black Adam",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "trailer": "https://www.youtube.com/watch?v=mkomfZHG5q4",
+            "description": "Reawakening after 5000 years, Black Adam becomes the world's ruthless protector: an anti-villain to take on the likes of Superman and Wonder Woman. Now in the 21st-Century, Black Adam must face off against the Justice Society of America and its heroes: Doctor Fate, Hawkman, Atom Smasher and Cyclone. The fate of the world hangs in the balance."
+        },
+        {
+            "id": 4,
+            "title": "Black Panther 2",
+            "poster": "https://www.deccanherald.com/sites/dh/files/cghmbnn%20vb-1165640-1669374914.jpg",
+            "trailer": "https://www.youtube.com/watch?v=_Z3QKkl1WyM",
+            "description": "Queen Ramonda, Shuri, M'Baku, Okoye and the Dora Milaje fight to protect the kingdom of Wakanda from intervening world powers in the wake of King T'Challa's death. As the Wakandans strive to embrace their next chapter, the heroes must band together with the help of War Dog Nakia and Everett Ross and forge a new path for their nation."
+        },
+        {
+            "id": 5,
+            "title": "Har Har Mahadev",
+            "poster": "https://i.ytimg.com/vi/Fa5V6jArlTE/maxresdefault.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Fa5V6jArlTE",
+            "description": "The film is about the inspirational story of a real battle in which only 300 soldiers, led by Baji Prabhu Deshpande, the commander of Chhatrapati Shivaji Maharaj."
+        },
+        {
+            "id": 6,
+            "title": "Freddy",
+            "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/370/1420370-h-cb1860fdfc2c",
+            "trailer": "https://www.youtube.com/watch?v=dx1mga5gFbY",
+            "description": "The lines between love and obsession blur in this romantic thriller packed with unpredictable twists and sharp turns."
+        },
+        {
+            "id": 7,
+            "title": "Chup",
+            "poster": "https://i.ytimg.com/vi/ppoa8KO5CZ0/maxresdefault.jpg",
+            "trailer": "https://www.youtube.com/watch?v=HxlyS8A_PRM",
+            "description": "A psychopath killer, targeting film critics. The film is a fast-paced thriller that raises many questions of the ethics of criticism."
+        },
+        {
+            "id": 8,
+            "title": "Bimbisara",
+            "poster": "https://i.ytimg.com/vi/Gf1Swvjd_ac/maxresdefault.jpg",
+            "trailer": "https://www.youtube.com/watch?v=GQyN01_vIX0",
+            "description": "Bimbisara is a ruthless emperor of Trigarala in 500 BC. In unexpected circumstances, Bimbisara travels in time and reaches the current day not knowing that a power-thirsty doctor Subramanya Sastry and Kethu are already waiting for him to come."
+        },
+        {
+            "id": 9,
+            "title": "Guillermo del Toro's Pinocchio",
+            "poster": "https://dx35vtwkllhj9.cloudfront.net/netflix/guillermo-del-toros-pinocchio/images/regions/us/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Tbl5Lbi4xEs",
+            "description": "A father's wish magically brings a wooden boy to life in Italy, giving him a chance to care for the child."
+        },
+        {
+            "id": 10,
+            "title": "Top Gun: Maverick",
+            "poster": "https://www.koimoi.com/wp-content/new-galleries/2022/05/top-gun-maverick-box-office-day-2-early-trends-001.jpg",
+            "trailer": "https://www.youtube.com/watch?v=giXco2jaZ_4",
+            "description": "After thirty years, Maverick is still pushing the envelope as a top naval aviator, but must confront ghosts of his past when he leads TOP GUN's elite graduates on a mission that demands the ultimate sacrifice from those chosen to fly it."
+        },
+        {
+            "id": 11,
+            "title": "DC League of Super-Pets",
+            "poster": "https://ottraja.com/wp-content/uploads/2022/08/DC-League-of-Super-Pets-Movie-OTT.jpg",
+            "trailer": "https://www.youtube.com/watch?v=1jkw2JPCl18",
+            "description": "Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime side by side in Metropolis. However, Krypto must master his own powers for a rescue mission when Superman is kidnapped."
+        },
+        {
+            "id": 12,
+            "title": "Fantastic Beasts: The Secrets of Dumbledore",
+            "poster": "https://m.economictimes.com/thumb/msid-90812123,width-1200,height-900,resizemode-4,imgsize-140244/warner-bros-said-the-spirit-of-the-movie-remains-intact-despite-the-cuts-.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Y9dr2zw-TXQ",
+            "description": "Professor Albus Dumbledore must assist Newt Scamander and his partners as Grindelwald begins to lead an army to eliminate all Muggles."
+        },
+        {
+            "id": 13,
+            "title": "Kantara",
+            "poster": "https://m.economictimes.com/thumb/msid-94750775,width-1200,height-900,resizemode-4,imgsize-115870/kantara.jpg",
+            "trailer": "https://www.youtube.com/watch?v=6oKFao0aISA",
+            "description": "It involves culture of Kambala and Bhootha Kola. A human and nature conflict where Shiva is a rebel who defends his village and nature. A death leads to war between villagers and evil forces."
+        },
+        {
+            "id": 14,
+            "title": "Major",
+            "poster": "https://static.toiimg.com/photo/91472083.cms",
+            "trailer": "https://www.youtube.com/watch?v=PAv1Ke07QAM",
+            "description": "Based on the life of Major Sandeep Unnikrishnan, who was martyred in action during the November 2008 Mumbai attacks and was consequently awarded the Ashoka Chakra, India's highest peacetime gallantry award, on 26 January 2009."
+        },
+        {
+            "id": 15,
+            "title": "RRR",
+            "poster": "https://images.moneycontrol.com/static-mcnews/2022/12/rrr.jpg?impolicy=website&width=1600&height=900",
+            "trailer": "https://www.youtube.com/watch?v=f_vbAtFSEc0",
+            "description": "A fictitious story about two legendary revolutionaries and their journey away from home before they started fighting for their country in the 1920s."
+        },
+        {
+            "id": 16,
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "poster": "https://images.thedirect.com/media/article_full/doctor-strange-multiverse-of-madness-runtime.jpg",
+            "trailer": "https://www.youtube.com/watch?v=aWzlQ2N6qqg",
+            "description": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse."
+        },
+        {
+            "id": 17,
+            "title": "Jurassic World Dominion",
+            "poster": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/jurassic-world-dominion/images/regions/us/header.jpg",
+            "trailer": "https://www.youtube.com/watch?v=fb5ELWi-ekk",
+            "description": "Four years after the destruction of Isla Nublar, Biosyn operatives attempt to track down Maisie Lockwood, while Dr Ellie Sattler investigates a genetically engineered swarm of giant insects."
+        },
+        {
+            "id": 18,
+            "title": "The Warriorr",
+            "poster": "https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/6056/1316056-h-ec0a113e386f",
+            "trailer": "https://www.youtube.com/watch?v=EmDNbar5oqk",
+            "description": "When Satya raises his voice against Guru, the latter revolts and bashes the former to hell. Satya makes a comeback as a cop to take revenge on Guru and put an end to his crime in Kurnool city."
+        },
+        {
+            "id": 19,
+            "title": "Kundali Bhagya",
+            "poster": "https://spiderimg.amarujala.com/assets/images/2020/09/18/kundali-bhagya_1600409125.jpeg",
+            "trailer": "https://www.youtube.com/watch?v=glDoG28vjc4",
+            "description": "Kundli Bhagya serial is the love story of Karan and Preeta. Kundali Bhagya serial essays the story of a middle-class girl Preeta who tries to save the Luthra family from Sherlyn's evil intentions."
+        },
+        {
+            "id": 20,
+            "title": "Ek Mahanayak",
+            "poster": "https://m.media-amazon.com/images/M/MV5BZjNkMmU1NWEtZTMyOC00MDAwLWI0MGEtNjY0ZTAzNmFjZDkwXkEyXkFqcGdeQXVyMTI1MTg2NDg0._V1_.jpg",
+            "trailer": "https://www.youtube.com/watch?v=M9ni_enJL4M",
+            "description": "Ek Mahanayak is the story of Dr. Bhimrao Ambedkar, the founding father of the Constitution of India. For the first time, the story of Babasaheb will be shown on television through serial. The show will include inspiring parts of Babasaheb's life. "
+        },
+        {
+            "id": 21,
+            "title": "Main Hoon Aparajita",
+            "poster": "https://wikiwiki.in/wp-content/uploads/2022/09/Main-Hoon-Aparajita-Zee-TV.jpg",
+            "trailer": "https://www.youtube.com/watch?v=k-Cto4clv5I",
+            "description": "After Aparajita is deserted by her husband, leaving her alone to fend for herself and her daughters, she rises to meet every challenge so that she and her girls can walk with their heads held high."
+        },
+        {
+            "id": 22,
+            "title": "Gouri Elo",
+            "poster": "https://i0.wp.com/wikiwiki.in/wp-content/uploads/2022/03/Gouri-Elo-Zee-Bagla.jpg?fit=1280%2C720&ssl=1",
+            "trailer": "https://www.youtube.com/watch?v=jtdjp4YwxJY",
+            "description": "Gouri has unflinching faith in Maa Kaali, while Ishan is a doctor, with a scientific bent of mind. Despite the duo being starkly opposite, destiny brings them together to change people’s lives."
+        },
+        {
+            "id": 23,
+            "title": "Bokul Kotha",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-6-1166/list/1170x658withlogo70604225.jpg",
+            "trailer": "https://www.youtube.com/watch?v=7AXLjS1k7zs",
+            "description": "Bokul Kotha is a Bengali television series starring Ushasi Ray and Honey Bafna in the lead. This is a story of Bokul, a tomboyish girl, who looks after all the responsibilities of a head of the family."
+        },
+        {
+            "id": 24,
+            "title": "Rani Rashmoni",
+            "poster": "https://pbs.twimg.com/media/D17xUp2U4AIkads.jpg",
+            "trailer": "https://www.youtube.com/watch?v=iAAAFM3-a18",
+            "description": "Rani, a kind-hearted woman, supports the poor through thick and thin. She constructs the Dakshineshwar temple, where Gadadhar is appointed as a priest."
+        },
+        {
+            "id": 24,
+            "title": "Appi Amchi Collector",
+            "poster": "https://static.toiimg.com/photo/msid-93297737/93297737.jpg",
+            "trailer": "Aappi Amchi Collector",
+            "description": "An inspirational journey of an ordinary village girl Appi, who fights against all odds and becomes a collector. Life takes a turn when Appi falls in love with a corrupt police officer, Arjun."
+        },
+        {
+            "id": 25,
+            "title": "Tu Chaal Pudh",
+            "poster": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJgUbEImk--0oQZj-AcsajeLmHsDd2Zb4tR4Q9HqeU-72VHNU1UbtrvzfN8fefE0ap0m0q7oXnxW-rS6VlviNtMcWzDYgCTTZ8DdJtkqodF6oFMHsLOZWdqR2yTwcPFYew8VJN9i542I-d64remQxb03IsKfWWUQhmKgKE7a3qynjkRKe2vvtfUMM5Aw/s1600/Tu-Chal-Pudha-TV-Serial-on-Zee-Marathi-Wiki.jpg",
+            "trailer": "https://www.youtube.com/watch?v=OKA7nPPiGuQ",
+            "description": "Ashwini, an ideal housewife and a perfect mother, dares to dream big and starts her own business to help fulfil the family's dream. Fighting against all odds, will she be able to achieve her goal?"
+        },
+        {
+            "id": 26,
+            "title": "Bhagya Lakshmi",
+            "poster": "https://images.thequint.com/thequint%2F2021-07%2F9b0602e8-e212-429d-a5e6-67a7d8ccefc4%2FSmallWall_1onthetruck__backside_of_driver__16X9_Small_Wall1_on_the_truck__backside_of_driver___1_.jpg?auto=format%2Ccompress&fmt=webp&width=720",
+            "trailer": "https://www.youtube.com/watch?v=HP3CU_d7tW0",
+            "description": "Lakshmi a kind hearted girl, hailing from a middle-class family, strongly believes in helping others, but her life takes an unexpected turn when her fate is tied to Rishi Oberoi, an industrialists son."
+        },
+        {
+            "id": 27,
+            "title": "Kamli Ishq Di",
+            "poster": "https://akamaividz2.zee5.com/image/upload/w_1170,h_658,c_scale,f_webp,q_auto:eco/resources/0-6-2411/list/062411list120225608.jpg",
+            "trailer": "https://www.youtube.com/watch?v=aoetNRENiSs",
+            "description": "A free-spirited Mahi falls in love with Veer, who aspires to join the Indian Army. Will the duo come together and surpass all the odds, or will Luckys conspiracies drive them apart?"
+        },
+        {
+            "id": 28,
+            "title": "India Lockdown",
+            "poster": "https://m.timesofindia.com/photo/95826048.cms",
+            "trailer": "https://www.youtube.com/watch?v=9ljbq9lM5GQ",
+            "description": "Inspired by true events, 'India Lockdown' depicts four parallel stories and the repercussions of the Covid-19 pandemic on the people of India."
+        },
+        {
+            "id": 29,
+            "title": "Mukhbir",
+            "poster": "https://images.hindustantimes.com/img/2022/11/04/1600x900/700x400_1667574973921_1667574989241_1667574989241.jpg",
+            "trailer": "https://www.youtube.com/watch?v=9wZ-qHE1w3o",
+            "description": "After the Sino-India war, a highly trained Indian spy enters Pakistan on a mission to gather crucial intelligence and stop Pakistan from launching an attack against India. Will he succeed?"
+        },
+        {
+            "id": 30,
+            "title": "Aha Naa Pellanta",
+            "poster": "https://images.livemint.com/img/2022/11/11/1600x900/cc3cad3a-6169-11ed-9c64-0e2c95df6558_1668134384042.jpg",
+            "trailer": "https://www.youtube.com/watch?v=w-jiuCMJSAQ",
+            "description": "Sinu vows never to flirt with a girl before marriage due to a harrowing childhood instance. However, life seems to pull off a joke when his bride elopes with her boyfriend on their wedding day."
+        },
+        {
+            "id": 31,
+            "title": "Duranga",
+            "poster": "https://cdn.telanganatoday.com/wp-content/uploads/2022/08/Duranga.jpg",
+            "trailer": "https://www.youtube.com/watch?v=PI61ViijdIM",
+            "description": "Sammit is the ideal family man. What happens when his wife, inspector Ira's investigation into a series of murders leads her to him? Has Sammit been living the perfect life or the perfect lie?"
+        },
+        {
+            "id": 32,
+            "title": "Bicchoo Ka Khel",
+            "poster": "https://i.ytimg.com/vi/4rxKs2Y-k2c/maxresdefault.jpg",
+            "trailer": "https://www.youtube.com/watch?v=mX4mvN1v4lc",
+            "description": "After Akhil shoots a lawyer in a crowded amphitheatre on the day of his colleges annual fest, he engages in a series of manipulative and dramatic incidents to prove his innocence."
+        },
+        {
+            "id": 33,
+            "title": "Rangbaaz",
+            "poster": "https://m.media-amazon.com/images/M/MV5BMDhlMjhkM2UtNTEyOC00NjBkLTk2MmYtNGJlZDVhMTE5OWMyXkEyXkFqcGdeQXVyMTA4NTc3NTQx._V1_.jpg",
+            "trailer": "https://www.youtube.com/watch?v=Ghy63iXUg-U",
+            "description": "Set in the Hindi heartland of India, this series, replete with politics and crime, showcases how circumstances compel two young men to fall through the cracks and turn into dreaded gangsters."
+        },
+        {
+            "id": 34,
+            "title": "The Final Call",
+            "poster": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/08/The-Final-Call-series-poster.jpg",
+            "trailer": "https://www.youtube.com/watch?v=ck_0nvtwklg",
+            "description": "When Captain Karan decides to end his life and puts the lives of 250 passengers at risk, airline officer Kiran takes charge to save the passengers on board."
+        },
+        {
+            "id": 35,
+            "title": "Jeet Ki Zid",
+            "poster": "https://images.indianexpress.com/2020/12/jeet-ki-zid-trailer-1200.jpg",
+            "trailer": "https://www.youtube.com/watch?v=7hfQnPvyTMk",
+            "description": "Major Deep Singh loses his ability to walk after he gets injured during the Kargil war. Will he also lose his mind and his spirit? Or will he rise again?"
+        },
+        {
+            "id": 36,
+            "title": "Lalbazaar",
+            "poster": "http://www.wikibiodata.com/wp-content/uploads/2020/03/Lalbazaar.jpg",
+            "trailer": "https://www.youtube.com/watch?v=JvW2cg3utis",
+            "description": "The show revolves around a set of brave cops who deal with the dark underbelly and bring some of the most sinister criminals to justice."
+        },
+        {
+            "id": 37,
+            "title": "The Broken News",
+            "poster": "https://i0.wp.com/wikiwiki.in/wp-content/uploads/2022/05/The-Broken-News-Zee5.jpg?fit=1280%2C720&ssl=1",
+            "trailer": "https://www.youtube.com/watch?v=bcZfQtapa-0",
+            "description": "Indian news channels Awaaz Bharati News and Josh 24/7 have opposing principles that lead to a fierce rivalry. The dynamic journalists attempt to balance their lives while facing an uncertain future."
+        },
+        {
+            "id": 38,
+            "title": "Hansan: Rising Dragon",
+            "poster": "https://i.ytimg.com/vi/fVSouaggbAg/maxresdefault.jpg",
+            "trailer": "https://www.youtube.com/watch?v=OD1ocTY75ts",
+            "description": "In 1592, legendary Korean Admiral Yi Sun-shin faces the powerful Japanese navy in the battle of Hansan. When the army faces a crisis, he uses the feared dragon-headed ships to win the war."
+        },
+        {
+            "id": 39,
+            "title": "Beeba Boys",
+            "poster": "https://aambar.files.wordpress.com/2016/01/beeba-boys-poster-2.jpg",
+            "trailer": "https://www.youtube.com/watch?v=XuuL16x7G6Y",
+            "description": "Jeet Johar is the charismatic leader of the stylish Indo-Canadian gang, the Beeba Boys. With the help of a friend from prison, he decides to take on the infamous crimelord, Robbie Grewal. "
+        },
+        {
+            "id": 40,
+            "title": "Blurr",
+            "poster": "https://moviekoop.com/Images/News/BlurrMovie.jpg",
+            "trailer": "https://www.youtube.com/watch?v=KNjBhoxNpvw",
+            "description": "In this ZEE5 Original, Gayatri, a woman with a degenerative eye disorder, is slowly losing her eyesight. She, however, has to solve the mystery of her twin sister Gautami's death."
+        },
+        {
+            "id": 41,
+            "title": "Karthikeya",
+            "poster": "https://www.chitramala.in/wp-content/uploads/2014/05/Nikhil-Karthikeya-Movie-Posters.jpg",
+            "trailer": "https://www.youtube.com/watch?v=WXzbm91D4lw",
+            "description": "While on a trip to Dwarka with his family, Dr. Karthikeya gets embroiled in a dangerous search for an ancient anklet belonging to Lord Krishna that has evaded adventurous men across centuries."
+        }
     ]
 }
