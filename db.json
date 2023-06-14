@@ -347,14 +347,14 @@
         {
             "id": 1,
             "title": "India Lockdown",
-            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5250012/cover/1920x770541441bea82b4c5ebb5e50fdf65b1486.jpg",
+            "poster": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/12/india-lockdown-movie-review-002.jpg",
             "trailer": "https://www.youtube.com/watch?v=9ljbq9lM5GQ",
             "description": "Inspired by true events, 'India Lockdown' depicts four parallel stories and the repercussions of the Covid-19 pandemic on the people of India."
         },
         {
             "id": 2,
             "title": "Blurr",
-            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-0-1z5259649/cover/1920x770c85c702415cb46fdbc2b704334a1222d.jpg",
+            "poster": "https://i.ytimg.com/vi/KNjBhoxNpvw/maxresdefault.jpg",
             "trailer": "https://www.youtube.com/watch?v=KNjBhoxNpvw",
             "description": "In this ZEE5 Original, Gayatri, a woman with a degenerative eye disorder, is slowly losing her eyesight. She, however, has to solve the mystery of her twin sister Gautami's death."
         },
@@ -368,14 +368,14 @@
         {
             "id": 4,
             "title": "Kundali Bhagya",
-            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-366/cover/1920x77034e3eda8bcc4448f9d5d0bd3cb3b370d.jpg",
+            "poster": "https://m.media-amazon.com/images/M/MV5BYTIwYWE3NDEtN2UwNC00NzdhLThlZGEtZDM0ODUxNDYyNjZiXkEyXkFqcGdeQXVyOTA3MTM0MTM@._V1_.jpg",
             "trailer": "https://www.youtube.com/watch?v=glDoG28vjc4",
             "description": "Kundli Bhagya serial is the love story of Karan and Preeta. Kundali Bhagya serial essays the story of a middle-class girl Preeta who tries to save the Luthra family from Sherlyn's evil intentions."
         },
         {
             "id": 5,
             "title": "Bhagya Lakshmi",
-            "poster": "https://akamaividz2.zee5.com/image/upload/w_1188,h_475,c_scale,f_webp,q_auto:eco/resources/0-6-3392/cover/1920x770a15c26ed517c493798aa0019ed684045.jpg",
+            "poster": "https://i.ytimg.com/vi/4IkdSd9UVx4/maxresdefault.jpg",
             "trailer": "https://www.youtube.com/watch?v=HP3CU_d7tW0",
             "description": "Lakshmi a kind hearted girl, hailing from a middle-class family, strongly believes in helping others, but her life takes an unexpected turn when her fate is tied to Rishi Oberoi, an industrialists son."
         },
@@ -681,19 +681,6 @@
             "poster": "https://www.chitramala.in/wp-content/uploads/2014/05/Nikhil-Karthikeya-Movie-Posters.jpg",
             "trailer": "https://www.youtube.com/watch?v=WXzbm91D4lw",
             "description": "While on a trip to Dwarka with his family, Dr. Karthikeya gets embroiled in a dangerous search for an ancient anklet belonging to Lord Krishna that has evaded adventurous men across centuries."
-        }
-    ],
-    "Books": [
-        {
-            "id": 1,
-            "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-            "book_name": "Harry Potter and the Philosopher's Stone",
-            "author": "J. K. Rowling",
-            "genre": "Fiction",
-            "edition": "2021",
-            "publisher": "Bloomsbury",
-            "cost": 1299,
-            "borrowed": false
         }
     ]
 }
